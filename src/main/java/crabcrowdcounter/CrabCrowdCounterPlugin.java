@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.crabcrowdcounter;
+package crabcrowdcounter;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -20,7 +20,7 @@ import java.util.Set;
 
 @Slf4j
 @PluginDescriptor(
-		name = "Crab Crowd Counterz"
+		name = "Crab Crowd Counter"
 )
 public class CrabCrowdCounterPlugin extends Plugin
 {

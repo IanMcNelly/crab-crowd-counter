@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.crabcrowdcounter;
+package crabcrowdcounter;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
